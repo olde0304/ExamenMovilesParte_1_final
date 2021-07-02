@@ -1,7 +1,7 @@
  package com.example.examenparte_1_framents;
 
 
-import androidx.fragment.app.Fragment;
+//import androidx.fragment.app.Fragment;
 
 
 import android.app.Activity;
@@ -11,7 +11,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
-
+import android.app.Fragment;
 
 public class MainActivity extends Activity {
 
